@@ -9,8 +9,8 @@ title: "Up Business"
 summaryLength: 20
 
 params:
-  title: "Up Business"
-  description: "We specialize in providing services to desing websites, applications, build and maintain business for customers."
+  title: "Copyshield"
+  description: "Copyshield is an anti-piracy service provider with emphasis on using technology to counter content theft and brand infringments."
   images: 
     - "images/hero-image.png"
 
@@ -22,20 +22,20 @@ params:
     faviconColor: "#000000"
 
   social:
-    dribbble: "#"
-    instagram: "#"
-    facebook: "#"
-    twitter: "#"
+    dribbble: "https://dribbble.com/copyshield"
+    instagram: "https://www.instagram.com/copyshield/"
+    facebook: "https://www.facebook.com/copyshield"
+    twitter: "https://twitter.com/CopyshieldHQ"
 
   location:
-    - "3891 Ranchview Dr. Richardson, California 62639"
-    - "4517 Washington Ave. Manchester, Kentucky 39495"
+    - "123 Main St, Anytown USA"
+    - "456 Park Ave, Anytown USA"
 
   contact:
-    - "trungkienspktnd@gamail.com"
-    - "207.555.0119"
+    - "info@copyshield.org"
+    - "555-123-4567"
 
-  copyright: "© 2022 Up Business All Rights Reserved"
+  copyright: "© 2023 Copyshield All Rights Reserved"
 
   postProcess: false
 
@@ -62,8 +62,8 @@ menus:
       weight: 5
 
   buttons:
-    - name: "Book a call"
-      url: "/#"
+    - name: "Get in touch"
+      url: "/#contact"
       weight: 5
       pre: "btn btn-primary text-light"
 
