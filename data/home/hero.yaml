@@ -2,8 +2,8 @@ enabled: true
 id: "hero"
 
 content:
-  title: "How to **level up** your business"
-  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Est faucibus tellus leo non pellentesque lorem vel. Arcu magna eros, potenti duis."
+  title: "Protect Your Business with CopyShield"
+  text: "CopyShield is the solution to all your content-related worries. From plagiarism detection to content creation, we have got you covered. Let us help you level up your business today!"
 
   buttonPrimary:
     label: "How we work"
@@ -11,5 +11,4 @@ content:
 
   buttonSecondary:
     label: "Let's talk"
-    url: ""
-
+    url: "#contact"

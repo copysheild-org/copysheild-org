@@ -2,26 +2,26 @@ enabled: true
 id: "services"
 
 content:
-  title: "Our main services"
-  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec quam nibh elit pellentesque velit netus suspendisse. Sed enim, pretium, montes, in ut dolor urna."
+  title: "Our Main Services"
+  text: "At CopyShield, we offer a wide range of services to help protect your content and brand online. Our team of experts is here to provide you with the best solutions and strategies to safeguard your intellectual property. Here are some of our main services:"
   cards:
-    - image: "images/services-web-development.png"
-      title: "Web development"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+    - image: "images/services-copyright.png"
+      title: "Copyright Protection"
+      text: "Our copyright protection service ensures that your creative works are protected from infringement, plagiarism, and unauthorized use. We monitor the internet for any unauthorized use of your content and take immediate action to remove it."
       button:
         label: "Learn more"
-        url: "#"
+        url: "/copyright"
 
-    - image: "images/services-web-development.png"
-      title: "Web development"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+    - image: "images/services-trademark.png"
+      title: "Trademark Protection"
+      text: "Trademark protection is crucial for safeguarding your brand identity and reputation. Our team helps you register your trademarks and monitors them to ensure that no one else is using your trademarks without permission."
       button:
         label: "Learn more"
-        url: "#"
+        url: "/trademark"
 
-    - image: "images/services-web-development.png"
-      title: "Web development"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+    - image: "images/services-legal.png"
+      title: "Legal Support"
+      text: "Our legal support services provide you with expert advice and guidance on copyright and trademark law. Our team of legal experts is here to help you navigate the complexities of intellectual property law and protect your rights."
       button:
         label: "Learn more"
-        url: "#"
+        url: "/legal-support"

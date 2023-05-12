@@ -1,25 +1,17 @@
 +++
-title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+title = "About Us"
+description = "Learn more about Copysheild and our mission to protect intellectual property"
+date = "2023-05-12"
+aliases = ["about", "contact"]
+author = "Copysheild Team"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Welcome to Copysheild! Our mission is to protect intellectual property and help creators and businesses safeguard their ideas and content. 
 
-Hugo makes use of a variety of open source projects including:
+We believe that everyone should have the right to protect their original work and prevent unauthorized use and distribution. That's why we've developed a range of innovative solutions that enable you to monitor, manage, and enforce your intellectual property rights online.
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+Our team is made up of experienced professionals with a passion for technology and intellectual property. We're committed to providing you with the best possible service and support, and we're always looking for ways to improve and innovate.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+If you have any questions or feedback, please don't hesitate to contact us. We'd love to hear from you!
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Learn more about our products and services on our [website](https://www.copysheild.org). Thank you for choosing Copysheild.

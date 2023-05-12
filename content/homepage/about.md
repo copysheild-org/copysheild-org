@@ -1,7 +1,4 @@
----
 title: 'Our Difference'
 button: 'About us'
 weight: 2
----
-
-Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Ipsum dolor sit amet, et essent mediocritatem quo.
+Copyshield uses advanced technology to protect your content and brand from theft and infringement. We offer a range of services to safeguard your intellectual property and help you grow your business.
