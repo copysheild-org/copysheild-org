@@ -2,8 +2,8 @@ enabled: true
 id: "cta"
 
 content:
-  title: "Start your business now!"
+  title: "Start Protecting your IP now!"
   image: "images/services-web-development.png"
   button:
     label: "Let's talk"
-    url: "#"
+    url: "mailto:dmca@copyshield.org?subject=Website89989"

@@ -28,11 +28,11 @@ params:
     twitter: "https://twitter.com/CopyshieldHQ"
 
   location:
-    - "123 Main St, Anytown USA"
-    - "456 Park Ave, Anytown USA"
+    - "456 Main St Toronto, ON M5X 1A1 Canada"
+    - "456 Main St Toronto, ON M5X 1A1 Canada"
 
   contact:
-    - "info@copyshield.org"
+    - "dmca@copyshield.org"
     - "555-123-4567"
 
   copyright: "© 2023 Copyshield All Rights Reserved"
@@ -49,21 +49,11 @@ menus:
       url: "/#"
       weight: 2
 
-    - name: "Our team"
-      url: "/#"
-      weight: 3
 
-    - name: "Pricing"
-      url: "/#"
-      weight: 4
-
-    - name: "Blog"
-      url: "/blog"
-      weight: 5
 
   buttons:
     - name: "Get in touch"
-      url: "/#contact"
+      url: "mailto:dmca@copyshield.org?subject=Website89989"
       weight: 5
       pre: "btn btn-primary text-light"
 
@@ -76,17 +66,8 @@ menus:
       url: "/#"
       weight: 2
 
-    - name: "Our team"
-      url: "/#"
-      weight: 3
 
-    - name: "Pricing"
-      url: "/#"
-      weight: 4
 
-    - name: "Blog"
-      url: "/blog"
-      weight: 5
 
 taxonomies:
   series: "series"
